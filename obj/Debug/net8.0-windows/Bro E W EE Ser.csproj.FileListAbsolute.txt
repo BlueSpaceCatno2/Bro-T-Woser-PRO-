@@ -1,0 +1,16 @@
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\bin\Debug\net8.0-windows\Bro E W EE Ser.exe
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\bin\Debug\net8.0-windows\Bro E W EE Ser.deps.json
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\bin\Debug\net8.0-windows\Bro E W EE Ser.runtimeconfig.json
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\bin\Debug\net8.0-windows\Bro E W EE Ser.dll
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\bin\Debug\net8.0-windows\Bro E W EE Ser.pdb
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\Bro_E_W_EE_Ser.Form1.resources
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\Bro E W EE Ser.csproj.GenerateResource.cache
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\Bro E W EE Ser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\Bro E W EE Ser.AssemblyInfoInputs.cache
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\Bro E W EE Ser.AssemblyInfo.cs
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\Bro E W EE Ser.csproj.CoreCompileInputs.cache
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\Bro E W EE Ser.dll
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\refint\Bro E W EE Ser.dll
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\Bro E W EE Ser.pdb
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\Bro E W EE Ser.genruntimeconfig.cache
+C:\Users\khan\source\repos\Bro E W EE Ser\Bro E W EE Ser\obj\Debug\net8.0-windows\ref\Bro E W EE Ser.dll
